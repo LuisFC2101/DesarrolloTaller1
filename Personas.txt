@@ -1,4 +1,12 @@
-Leonado
-Luis
-Cocoro
-Polo
+Instrucciones
+Configurar Git en el equipo (nombre de usuario y correo).
+Crear un repositorio en GitHub o GitLab y clonarlo localmente.
+Crear una nueva rama (‘branch‘) para realizar cambios independientes.
+Realizar cambios en archivos compartidos de forma intencional para provocar conflictos.
+Hacer commit y push a la rama.
+Cambiar de roles con el compa˜nero: ´el debe actualizar su repositorio, enfrentar los conflictos
+y resolverlos.
+Repetir el proceso a la inversa: ahora t´u resuelves los conflictos que ´el genere.
+Finalmente, dejar el repositorio en estado limpio, con los conflictos resueltos y el trabajo
+fusionado.
+Universidad
